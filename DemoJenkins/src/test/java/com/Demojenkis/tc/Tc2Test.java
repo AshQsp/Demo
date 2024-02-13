@@ -8,6 +8,8 @@ public class Tc2Test {
 	public void tc2()
 	{
 		Reporter.log("Tc2 Passsed",true);
+		Reporter.log("Tc2 Updated",true);
+		
 	}
 
 }
