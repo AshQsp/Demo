@@ -9,7 +9,8 @@ public class Tc3 {
 	public void tc3()
 	{
 		Reporter.log("Tc3 Passed",true);
-		Reporter.log("Tc3 Updated",true);
+
+		Reporter.log("Tc3 Updtaed By Eng 2",true);
 		
 	}
 
